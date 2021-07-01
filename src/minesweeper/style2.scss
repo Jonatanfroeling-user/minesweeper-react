@@ -1,0 +1,54 @@
+@import "~bootstrap/scss/bootstrap"; 
+
+#App {
+  padding: 1rem;
+}
+
+#btnReset {
+  margin: 0, 2rem;
+}
+.error {
+  color: red;
+}
+button {
+  margin-left: 0.5rem;
+
+}
+
+.block-0 {
+  color: transparent;
+  background-color: transparent;
+}
+
+.block-1 {
+  color: rgb(50, 46, 253);
+}
+
+.block-2 {
+  color: rgb(19, 165, 0);
+}
+
+.block-3 {
+  color: rgb(255, 0, 0);
+}
+
+.block-4 {
+  color: rgb(0, 2, 90);
+}
+
+.block-5 {
+  color: rgb(90, 0, 0);
+}
+
+.block-6 {
+  color: rgb(0, 99, 25);
+}
+
+.block-7 {
+  color: rgb(255, 255, 255);
+}
+
+.block-8 {
+  color: rgb(0, 0, 0);
+}
+
